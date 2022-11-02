@@ -18,3 +18,8 @@ Check out the simple tests [here](https://github.com/vasilije15/apetito/blob/mas
 
 Compose components [here](https://github.com/vasilije15/apetito/tree/master/app/src/main/java/com/vaske/restaurants/ui/components).
 
+## Build
+Clone to Android Studio and run on device or emulator
+```sh
+  https://github.com/vasilije15/apetito.git
+  ```
