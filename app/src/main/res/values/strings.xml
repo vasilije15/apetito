@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apetito</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="see_reviews">Click to see reviews</string>
+    <string name="opens_at">Opens at %1s</string>
+    <string name="closes_at">Closes at %1s</string>
+    <string name="empty_list_error_message">Seems like we are not able to find any restaurants at the moment 😰</string>
+</resources>
