@@ -21,5 +21,5 @@ Compose components [here](https://github.com/vasilije15/apetito/tree/master/app/
 ## Build
 Clone to Android Studio and run on device or emulator
 ```sh
-  https://github.com/vasilije15/apetito.git
+  git clone https://github.com/vasilije15/apetito.git
   ```
