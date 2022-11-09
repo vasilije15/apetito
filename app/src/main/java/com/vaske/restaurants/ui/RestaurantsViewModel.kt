@@ -44,7 +44,7 @@ class RestaurantsViewModel @Inject constructor(
     private fun Restaurant.adaptForRestaurantCard(): RestaurantDetailsUi =
         RestaurantDetailsUi(
             uuid = this.uid,
-            name = this.name + " " + randomRestaurantEmoji(), // should have some login based on restaurant type to show emoji :D
+            name = this.name + " " + randomRestaurantEmoji(), // should have some logic based on restaurant type to show emoji :D
             type = this.type,
             address = this.address,
             imageUrl = randomRestaurantImage(),
