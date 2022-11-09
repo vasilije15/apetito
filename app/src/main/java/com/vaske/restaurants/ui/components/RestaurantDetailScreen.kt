@@ -274,7 +274,7 @@ private fun RestaurantImageHeader(imageUrl: String) {
 }
 
 private fun getImageRequest(url: String, context: Context): ImageRequest =
-    ImageRequest.Builder(context).data(url).diskCachePolicy(CachePolicy.DISABLED).crossfade(true)
+    ImageRequest.Builder(context).data(url).diskCachePolicy(CachePolicy.ENABLED).crossfade(true)
         .error(R.drawable.random_restaurant)
         .build()
 
